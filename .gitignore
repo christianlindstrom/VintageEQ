@@ -1,0 +1,11 @@
+Builds/
+.vs/
+*.user
+*.suo
+*.aps
+*.pdb
+*.ilk
+*.iobj
+*.ipch
+*.lib
+JuceLibraryCode/
